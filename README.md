@@ -14,10 +14,10 @@ const aboutMe = {
 
 ## 📈Github Stats
 <div align="left"><a href="https://github.com/abdullahhalis">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullahhalis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahhalis&layout=compact&langs_count=8&theme=tokyonight"/></a></div>
+<img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullahhalis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahhalis&layout=compact&langs_count=8&theme=tokyonight"/></a></div>
 <div align="left">
   <a href="https://github.com/abdullahhalis">
-  <img width="910px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahhalis&theme=tokyonight">
+  <img width="810px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahhalis&theme=tokyonight">
   </a>
 </div>
 
