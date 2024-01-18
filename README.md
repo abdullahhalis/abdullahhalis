@@ -14,8 +14,8 @@ const aboutMe = {
 
 ## 📈Github Stats
 <div align="center">
-  <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullahhalis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahhalis&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullahhalis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahhalis&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <div align="center">
   <img width="910px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahhalis&theme=tokyonight">
